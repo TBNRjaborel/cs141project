@@ -1,0 +1,57 @@
+*{
+  background-color: #F5DA76;
+  margin: 0;
+  padding: 0;
+}
+
+.screen{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 75vh;
+  text-align: center;
+  /* border: 1px solid black; */
+  
+}
+
+.screen .logo{
+  width: 500px;
+  margin-bottom: -190px;
+  
+}
+
+.screen .name{
+  /* margin: 0px; */
+  font-family: "DM Serif Display", serif;
+  font-size: 30px;
+}
+
+
+/* .page .logo{
+  position: relative;
+  left: 100px;
+  width: 500px;
+}
+
+.page .name{
+  position: relative;
+  left: 250px;
+  bottom: 180px;
+  font-family: "DM Serif Display", serif;
+  font-size: 50px;
+  background: transparent;
+} */
+
+/* .page .container{
+  position:relative;
+  text-align: right;
+  bottom: 300px;
+  right: 250px;
+
+  border: 0px;
+  border: red solid ;
+
+  
+} */
+
+
